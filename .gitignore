@@ -1,3 +1,7 @@
 
 *.db
 ~$movies_clean.xlsx
+*.png
+*.xlsx
+thecsv
+IMDB_boxoffice_2022_2012.xlsx
