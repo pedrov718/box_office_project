@@ -15,7 +15,18 @@ Our data came from the budget dataframe provided by Flatiron, the director infor
 
 ## Description of data
 
-Cannot add visualizations to readme file. Alll visualizations are in final notebooks as well as in our powerpoint.
+![alt text](https://ibb.co/QdHjgFD)
+![alt text](https://ibb.co/Kw8vY1h)
+![alt text](https://ibb.co/2jn9Q2H)
+![alt text](https://ibb.co/y0WHpKn)
+![alt text](https://ibb.co/LzVHtb6)
+![alt text](https://ibb.co/wpwNdH5)
+![alt text](https://ibb.co/Hd2kKW9)
+![alt text](https://ibb.co/FJ8yD35)
+![alt text](https://ibb.co/g9CxwQG)
+![alt text](https://ibb.co/4Ymb2TQ)
+![alt text](https://ibb.co/KLTXngw)
+![alt text](https://ibb.co/pJkhHrv)
 
 ## Conclusion
 
