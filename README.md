@@ -16,17 +16,18 @@ Our data came from the budget dataframe provided by Flatiron, the director infor
 ## Description of data
 
 ![alt text](https://i.postimg.cc/Prsz8pvT/avg-boxoffice-permonth-bar.png)
-![alt text](https://ibb.co/Kw8vY1h)
-![alt text](https://ibb.co/2jn9Q2H)
-![alt text](https://ibb.co/y0WHpKn)
-![alt text](https://ibb.co/LzVHtb6)
-![alt text](https://ibb.co/wpwNdH5)
-![alt text](https://ibb.co/Hd2kKW9)
-![alt text](https://ibb.co/FJ8yD35)
-![alt text](https://ibb.co/g9CxwQG)
-![alt text](https://ibb.co/4Ymb2TQ)
-![alt text](https://ibb.co/KLTXngw)
-![alt text](https://ibb.co/pJkhHrv)
+![alt text](https://i.postimg.cc/Yq6NNrQg/avg-domestic-gross-by-dist.png)
+![alt text](https://i.postimg.cc/QtK1FhXF/avg-profit-per-genre-all-years.png)
+![alt text](https://i.postimg.cc/FKRjQ08g/avg-rating-vs-profit.png)
+![alt text](https://i.postimg.cc/K8QnV0q8/avg-runtime-per-genre.png)
+![alt text](https://i.postimg.cc/prN884Tq/avg-runtime-vs-profit.png)
+![alt text](https://i.postimg.cc/ZKSp5GXq/boxoffice-per-month-2012-2022.png)
+![alt text](https://i.postimg.cc/YCt6b5xP/boxoffice-per-year-line.png)
+![alt text](https://i.postimg.cc/1zjDRfZx/movie-data-erd.jpg)
+![alt text](https://i.postimg.cc/HkWMQQYD/profitable-directors.png)
+![alt text](https://i.postimg.cc/4NQt78TQ/profit-margin-vs-num-opening-theaters.png)
+![alt text](https://i.postimg.cc/SxZMVJRX/total-opening-theaters-vs-profit.png)
+
 
 ## Conclusion
 
