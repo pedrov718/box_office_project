@@ -15,7 +15,7 @@ Our data came from the budget dataframe provided by Flatiron, the director infor
 
 ## Description of data
 
-![alt text](https://ibb.co/QdHjgFD)
+![alt text](https://i.postimg.cc/Prsz8pvT/avg-boxoffice-permonth-bar.png)
 ![alt text](https://ibb.co/Kw8vY1h)
 ![alt text](https://ibb.co/2jn9Q2H)
 ![alt text](https://ibb.co/y0WHpKn)
